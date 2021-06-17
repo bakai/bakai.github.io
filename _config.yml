@@ -9,7 +9,7 @@ title:               Bakai Taalaibek
 tagline:             I will share my writing here
 url:                 http://bakai.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "http://bakai.github.io/"
 
 # Assets
 #
