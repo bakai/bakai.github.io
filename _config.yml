@@ -7,9 +7,9 @@ relative_permalinks: false
 # Setup
 title:               Bakai Taalaibek
 tagline:             I will share my writing here
-url:                 http://bakai.github.io/
+url:                 https://bakai.github.io/
 paginate:            1
-baseurl:             "http://bakai.github.io/"
+baseurl:             "https://bakai.github.io/"
 
 # Assets
 #
