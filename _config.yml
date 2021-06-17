@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Bakai Taalaibek
+tagline:             I will share my writing here
+url:                 http://bakai.github.io/
 paginate:            1
 baseurl:             ""
 
